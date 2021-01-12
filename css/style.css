@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    border: 0;
+    background-color: #fff;
+}
+.panda-footer-button{
+    background-color: #FF3B89;
+    border: 0;
+    margin-top: 30px;
+}
+.subscribe-area{
+    background-color: #FCEAE8;
+}
+.category-1{
+    background-color: #FFA500;
+    height: 150px;
+}
+.category-2{
+    background-color: #DA70D6;
+    height: 150px;
+}
+.category-3{
+    background-color: #0000FF;
+    height: 150px;
+}
+.banner .carousel-item{
+    background-color: #FCEAE8;
+}
+.carousel-inner{
+    border-radius: 20px;
+}
